@@ -1,6 +1,6 @@
 {
   "name": "preet-test-app2",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bootstrap-sass-official": "~3.1.0",
     "modernizr": "~2.6.2",
