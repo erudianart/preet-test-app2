@@ -1,0 +1,1 @@
+!function(){"use strict";function a(){console.log(b)}var b="app2";a()}();

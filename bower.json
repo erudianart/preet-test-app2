@@ -1,0 +1,11 @@
+{
+  "name": "preet-test-app2",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0",
+    "preet-test-app1": "95baf23e5c60dc7c64bc73c39c47c3c306b502fc"
+  },
+  "devDependencies": {}
+}
