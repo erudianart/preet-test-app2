@@ -7,5 +7,13 @@
     "jquery": "~1.11.0",
     "preet-test-app1": "95baf23e5c60dc7c64bc73c39c47c3c306b502fc"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app",
+    ".tmp",
+    ".sass-cache"
+  ]
 }
